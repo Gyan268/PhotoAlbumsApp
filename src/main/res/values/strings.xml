@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Android</string>
+    <string name="create_album">Create Album</string>
+    <string name="search">Search</string>
+    <string name="input_album_name">Input Album Name</string>
+    <string name="confirm">Confirm</string>
+    <string name="add_photo" />
+    <string name="delete_photo" />
+    <string name="delete_album" />
+    <string name="search_photo" />
+    <string name="image" />
+</resources>
